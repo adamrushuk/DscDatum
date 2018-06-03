@@ -1,6 +1,6 @@
 # DscDatum
 
-Testing [Datum](https://github.com/gaelcolas/Datum) for a "Hierarchical data meta structure" for DSC.
+Testing [Datum](https://github.com/gaelcolas/Datum) for a "Hierarchical data meta structure" to be used with DSC.
 
 ## Goal
 
